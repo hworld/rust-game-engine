@@ -1,0 +1,9 @@
+[package]
+
+name = "rust-game-engine"
+version = "0.0.1"
+authors = [ "David DeCarmine <hworld@holo-world.com>" ]
+
+[[bin]]
+
+name = "rust-game-engine"
