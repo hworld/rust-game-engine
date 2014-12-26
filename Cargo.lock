@@ -1,4 +1,4 @@
 [root]
-name = "engine"
+name = "rust-game-engine"
 version = "0.0.1"
 

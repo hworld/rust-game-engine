@@ -1,1 +1,1 @@
-#![crate_name = "engine"]
+#![crate_name = "rust-game-engine"]
